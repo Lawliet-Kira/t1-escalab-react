@@ -3,7 +3,7 @@ const pokemons = [
         id: 1,
         name: "Bulbasaur",
         type: ["Planta", "Veneno"],  
-        atributos: {
+        attributes: {
             height: "0.7m",
             weight: "6.9kg",
             category: "Seed",
@@ -15,7 +15,7 @@ const pokemons = [
         id: 2,
         name: "Charmander",
         type: ["Fuego"],  
-        atributos: {
+        attributes: {
             height: "0.6m",
             weight: "8.5kg",
             category: "Lizard",
@@ -27,7 +27,7 @@ const pokemons = [
         id: 3,
         name: "Squirtle",
         type: ["Planta", "Veneno"],  
-        atributos: {
+        attributes: {
             height: "0.5m",
             weight: "9,0kg",
             category: "Little turtle",

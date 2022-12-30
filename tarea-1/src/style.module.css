@@ -1,0 +1,14 @@
+.app_nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 80px;
+    width: 100%;
+    margin: 20px 10px;
+}
+
+.app_h1 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 20px;
+}
